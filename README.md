@@ -39,7 +39,7 @@ The **CNN-based approach** leverages deep learning to classify speakers.
 
 ## Dataset
 
-The dataset contains audio recordings from **50 speakers**, each organized into separate folders. Audio files are processed to extract **MFCC features**, which act as robust descriptors of vocal characteristics. Data augmentation techniques are applied to improve the generalization of the CNN model. Refer this link for dataset[Dataset link](https://drive.google.com/drive/folders/1qb_NCloA8p7r7IgXBMji--6HELPwLL1J?usp=drive_link)
+The dataset contains audio recordings from **50 speakers**, each organized into separate folders. Audio files are processed to extract **MFCC features**, which act as robust descriptors of vocal characteristics. Data augmentation techniques are applied to improve the generalization of the CNN model. Refer this link for dataset. [Dataset link](https://drive.google.com/drive/folders/1qb_NCloA8p7r7IgXBMji--6HELPwLL1J?usp=drive_link)
 
 ---
 
